@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: rgb(14, 38, 51);
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  font-family: 'Sen', sans-serif;
+}
