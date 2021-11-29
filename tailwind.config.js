@@ -12,6 +12,20 @@ module.exports = {
       height: {
         "semi-screen": '90vh',
       },
+      zIndex: {
+        '2n': '-2',
+        'n': '-1'
+      },
+      inset: {
+        '85': '23rem',
+        '97': '24.5rem',
+        '97.5': '25.5rem',
+        '98': '31rem',
+        '99': '46rem',
+      },
+      backgroundImage: {
+        'avatar-6': 'url("/UserAvatar6.jpg")'
+      }
     },
   },
   variants: {
